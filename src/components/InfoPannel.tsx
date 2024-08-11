@@ -25,7 +25,7 @@ const InfoPannel = () => {
             fontSize: 12,
           }}
         >
-          https://github.com/rupandhungana/emoji-game
+           https://github.com/yobijendra1/Smiley-Game
         </a>
       </p>
       <p>
