@@ -14,12 +14,12 @@ const InfoPannel = () => {
       }}
     >
       <p>
-        Developer: <b>Rupan Dhungana</b>
+        Developer: <b>Bijendra Gurung</b>
       </p>
       <p>
         Github:{" "}
         <a
-          href="https://github.com/rupandhungana/emoji-game"
+          href="https://github.com/yobijendra1/Smiley-Game"
           target="_blank"
           style={{
             fontSize: 12,
